@@ -33,5 +33,5 @@ When running the second command, we get the flag in plaintext: `SecVal{[REDACTED
 # Tools used:
 
  - A standard linux terminal 
- - bash
+ - strings
  - grep
