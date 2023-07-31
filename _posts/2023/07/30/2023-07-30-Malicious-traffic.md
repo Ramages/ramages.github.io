@@ -2,6 +2,7 @@
 date: 2023-07-30 15:50:31 +02:00
 categories: [SecurityValley, Network]
 tags: [Network, CTF, SecurityValley]
+image: /assets/img
 ---
 
 This is a writeup of the network challenge Malicious traffic from the [Security Valley](https://ctf.securityvalley.org) CTF
@@ -15,7 +16,7 @@ traffic.pcapng
 # Observations
 Looking at the traffic in the file, we can immediately narrow things down by applying the filter !arp, since the traffic here seems uninteresting for now.
 Looking at the DNS traffic, we can see a repeating pattern, that being that the traffic always end in `4530234dsf3.cdn.aws.com`.
-![traffic.pcapng traffic without arp](/assets/img/mal_traffic.png)
+![traffic.pcapng traffic without arp](_site/assets/img/mal_traffic.png)
 # Solution
 If we look at the contents with some text in front of it, followed by the previously mentioned `4530234dsf3.cdn.aws.com` string, we get the following:
 ```
@@ -47,7 +48,7 @@ And if we now decode them from base64 in a tool like [CyberChef](https://gchq.gi
 We can attempt this decoding by adding a XOR decoder. 
 Since `bad` can be both a HEX and UTF-8 key, we try decoding it as HEX first (since its the default setting), but this doesnt give us any result.
 If we however try changing the key to UTF-8, we get more legible output, including our flag.
-![Cyberchef Result](/assets/img/mal_traf_flag.png)
+![Cyberchef Result](_site/assets/img/mal_traf_flag.png)
 # Tools used:
  - wireshark
  - CyberChef
