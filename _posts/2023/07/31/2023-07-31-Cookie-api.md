@@ -12,7 +12,7 @@ This API here has a strange behavior. The endpoint /api/v1/init produces cookies
 ## Challenge links:
 [https://pwnme.org/](https://pwnme.org/)
 # Observations
-If we make a api call to the `init`endpoint, we cant see anything in the response body.
+If we make an api call to the `init`endpoint, we cant see anything in the response body.
 If we instead look at the headers, we can see a session token, which looks like it's encoded in base64 and a very short expiry date (1 second).
 ![Initialized cookie](/assets/images/cookie_api_req.png)
 If we decode the base64 string, we find the following contents:
