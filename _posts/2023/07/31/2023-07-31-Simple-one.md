@@ -3,7 +3,7 @@ date: 2023-07-31 06:20:40 +02:00
 categories: [SecurityValley, Web]
 tags: [Web, CTF, SecurityValley]
 ---
-This is a writeup of the web challenge Simpple one from the [Security Valley](https://ctf.securityvalley.org) CTF
+This is a writeup of the web challenge Simple one from the [Security Valley](https://ctf.securityvalley.org) CTF
 #### Level: 1, Score: 5
 # Premise
 Our administrators have forgotten a file on our web server. This file is very important for us. Unfortunately, our admin also forgot the location of the file. Can you find this file?
