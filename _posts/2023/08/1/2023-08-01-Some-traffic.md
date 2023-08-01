@@ -1,5 +1,5 @@
 ---
-date: 2023-07-31 17:58:22 +02:00
+date: 2023-08-01 17:58:22 +02:00
 categories: [TFCCTF, Forensics]
 tags: [Forensics, CTF, TFCCTF]
 ---
