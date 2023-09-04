@@ -3,7 +3,7 @@ date: 2023-09-04 18:55:37 +02:00
 categories: [DUCTF, misc]
 tags: [misc, CTF, DUCTF]
 ---
-This is a writeup of the misc challenge my first C program from the DUCTF(https://play.duc.tf/) CTF
+This is a writeup of the misc challenge my first C program from the [DUCTF](https://play.duc.tf/) CTF
 #### Level: easy, Score: 100
 # Premise
 I decided to finally sit down and learn C, and I don't know what all the fuss is about this language it writes like a _**dream**_!
