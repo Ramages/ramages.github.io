@@ -1,9 +1,9 @@
 ---
 date: 2023-09-11 13:44:39 +02:00
-categories: [CyberHeroines, Forensics]
-tags: [Forensics, CTF, CyberHeroines]
+categories: [CyberHeroines, Crypto]
+tags: [Crypto, CTF, CyberHeroines]
 ---
-This is a writeup of the forensics challenge Lenore Blum from the CyberHeroines(https://cyberheroines.ctfd.io/) CTF
+This is a writeup of the crypto challenge Lenore Blum from the CyberHeroines(https://cyberheroines.ctfd.io/) CTF
 #### Level: Medium, Score: 300
 # Premise
 
