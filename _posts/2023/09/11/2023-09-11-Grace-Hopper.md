@@ -1,6 +1,6 @@
 ---
 date: 2023-09-11 14:40:19 +02:00
-categories: [CyberHeroines, Forensics]
+categories: [CyberHeroines, Web]
 tags: [Web, CTF, CyberHeroines]
 ---
 This is a writeup of the web challenge Grace Hopper from the CyberHeroines(https://cyberheroines.ctfd.io/) CTF
