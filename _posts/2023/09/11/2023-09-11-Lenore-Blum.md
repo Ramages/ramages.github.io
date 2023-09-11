@@ -37,7 +37,7 @@ we just need to keep spamming untill we find ourselves a seed appearing twice, a
 
 This is done when running the file locally, so we can make an attempt to recreate this "solution" on the live insance, as seen here:
 
-![Spam flag](/assets/images/CHCTF/Lenore/spam_poc.png)
+![Spam flag](/assets/images/CHCTF/Lenore/spam_flag.png)
 
 
 Giving us our flag
