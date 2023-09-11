@@ -1,7 +1,7 @@
 ---
 date: 2023-09-04 01:08:15 +02:00
-categories: [DUCTF, misc]
-tags: [misc, CTF, DUCTF]
+categories: [DUCTF, Misc]
+tags: [Misc, CTF, DUCTF]
 ---
 This is a writeup of the misc challenge impossible from the DUCTF(https://play.duc.tf/) CTF
 #### Level: beginner, Score: 100

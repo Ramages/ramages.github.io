@@ -1,7 +1,7 @@
 ---
 date: 2023-09-04 18:55:37 +02:00
-categories: [DUCTF, misc]
-tags: [misc, CTF, DUCTF]
+categories: [DUCTF, Misc]
+tags: [Misc, CTF, DUCTF]
 ---
 This is a writeup of the misc challenge my first C program from the [DUCTF](https://play.duc.tf/) CTF
 #### Level: easy, Score: 100

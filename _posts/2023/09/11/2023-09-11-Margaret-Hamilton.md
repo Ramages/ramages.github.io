@@ -1,9 +1,9 @@
 ---
 date: 2023-09-11 09:12:25 +02:00
-categories: [cyberheroines, Forensics]
-tags: [Forensics, CTF, cyberheroines]
+categories: [CyberHeroines, Forensics]
+tags: [Forensics, CTF, CyberHeroines]
 ---
-This is a writeup of the forensics challenge Margaret Hamilton from the cyberheroines(https://cyberheroines.ctfd.io/) CTF
+This is a writeup of the forensics challenge Margaret Hamilton from the CyberHeroines(https://cyberheroines.ctfd.io/) CTF
 #### Level: Easy, Score: 100
 # Premise
 [Margaret Elaine Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer) (née Heafield; born August 17, 1936) is an American computer scientist, systems engineer, and business owner. She was director of the Software Engineering Division of the MIT Instrumentation Laboratory, which developed on-board flight software for NASA's Apollo program. She later founded two software companies—Higher Order Software in 1976 and Hamilton Technologies in 1986, both in Cambridge, Massachusetts. - [Wikipedia Entry](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)
