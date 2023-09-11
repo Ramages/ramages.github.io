@@ -69,7 +69,7 @@ So, a lone text file named `A_Cyber_Heroine.txt`. Looking at the contents of the
 
 So, no flag there. We do have 1 additional option here though, and that's checking the commit history.
 Doing this shows us the following:
-![github history](/assets/images/CHCTF/Stephanie/gh_history.png)
+![github history](/assets/images/CHCTF/Stephanie/gh_old.png)
 
 Great, there is another commit, navigating to this older commit gives us the following result:
 ![github flag](/assets/images/CHCTF/Stephanie/gh_flag.png)
