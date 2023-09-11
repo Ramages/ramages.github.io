@@ -44,6 +44,10 @@ Giving us our flag
 > chctf{cr3at0r_0f_d0main_n4m3_syst3m}
 {: .prompt-info }
 
+To wrap things up, I will express myself through this meme:
+
+![ifitworksitworks](/assets/images/CHCTF/Lenore/ifitworks.png)
+
 # Tools used:
  - netcat
  - spamming
