@@ -1,7 +1,7 @@
 ---
 date: 2023-09-04 21:45:16 +02:00
-categories: [DUCTF, rev]
-tags: [rev, CTF, DUCTF]
+categories: [DUCTF, Reversing]
+tags: [Reversing, CTF, DUCTF]
 ---
 This is a writeup of the rev challenge All Father's Wisdom from the DUCTF(https://play.duc.tf/) CTF
 #### Level: beginner, Score: 100

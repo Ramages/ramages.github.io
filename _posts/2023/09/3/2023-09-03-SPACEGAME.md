@@ -1,7 +1,7 @@
 ---
 date: 2023-09-03 19:05:35 +02:00
-categories: [DUCTF, rev]
-tags: [rev, CTF, DUCTF]
+categories: [DUCTF, Reversing]
+tags: [Reversing, CTF, DUCTF]
 ---
 
 This is a writeup of the rev challenge SPACEGAME from the DUCTF(https://play.duc.tf/) CTF
