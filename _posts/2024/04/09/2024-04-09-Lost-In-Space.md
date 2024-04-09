@@ -5,7 +5,7 @@ tags: [OSINT, CTF, swampCTF]
 ---
 
 This is a writeup of the OSINT challenge Lost in Space by [swampCTF](https://swampctf.com/) 
-#### Points: 154
+#### Points: 25
 # Premise
 I think OSINT challenges are stupid! If they aren't, prove it! How far away is this? Don't bother giving me the unit, there's only one that you should be using in space anyways _(use Astronomical Units)_. _The flag entry is extremely forgiving just make sure you get the integer for distance right._
 
