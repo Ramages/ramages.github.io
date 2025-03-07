@@ -15,12 +15,12 @@ Unveil the lost code of the Samurai and unlock the mystery hidden within.
 
 # Observations
 We start off by looking at the challenge image:
-![challenge_img](/assets/images/apoorvCTF/saumurai/sam.jpg)
+![challenge_img](/assets/images/apoorvCTF/samurai/sam.jpg)
 
 Nothing seems out of the ordinary from the image, so we need to start investigating a bit further.
 Exiftools didnt yied anything of interest, but we can continue to the site [Fotoforensics](https://fotoforensics.com/)
 
-![fotoforensics](/assets/images/apoorvCTF/saumurai/fotoforensics.png)
+![fotoforensics](/assets/images/apoorvCTF/samurai/fotoforensics.png)
 
 Here we can see what looks a lot like [Brainfuck](https://esolangs.org/wiki/Brainfuck) at the end of the image.
 
@@ -29,12 +29,12 @@ Here we can see what looks a lot like [Brainfuck](https://esolangs.org/wiki/Brai
 ```
 
 Running the code using [dcode.fr](https://www.dcode.fr/brainfuck-language), we get the following output:
-![brainfuck_decode](/assets/images/apoorvCTF/saumurai/brainfuck.png)
+![brainfuck_decode](/assets/images/apoorvCTF/samurai/brainfuck.png)
 
 We get [this](https://drive.google.com/file/d/1JWqdBJzgQhLUI-xLTwLCWwYi2Ydk4W6-/view?usp=sharing) link to a google drive, navigating to it we can download a file simply titled samurai.
 
 Opening the file, we see what looks like a jpg with its bits shuffled
-![samurai_bytes](/assets/images/apoorvCTF/saumurai/samurai_bytes.png)
+![samurai_bytes](/assets/images/apoorvCTF/samurai/samurai_bytes.png)
 
 as according to the [JPEG file format](https://en.wikipedia.org/wiki/JPEG_File_Interchange_Format#File_format_structure), we should see the first bytes be `FF D8 FF E0`
 
@@ -60,7 +60,7 @@ shift_bytes(input_file, output_file)
 ```
 
 The result is the following image:
-![win_samurai](/assets/images/apoorvCTF/saumurai/shifted_samurai.png)
+![win_samurai](/assets/images/apoorvCTF/samurai/shifted_samurai.png)
 
 Which gives us the flag:
 > apoorvctf{ByT3s_OUT_OF_ORd3R}
