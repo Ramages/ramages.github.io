@@ -60,7 +60,7 @@ shift_bytes(input_file, output_file)
 ```
 
 The result is the following image:
-![win_samurai](/assets/images/apoorvCTF/samurai/shifted_samurai.png)
+![win_samurai](/assets/images/apoorvCTF/samurai/shifted_samurai.jpg)
 
 Which gives us the flag:
 > apoorvctf{ByT3s_OUT_OF_ORd3R}
