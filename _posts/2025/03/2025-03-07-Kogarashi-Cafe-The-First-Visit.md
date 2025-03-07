@@ -106,6 +106,4 @@ Which gives us the flag:
 - [IDA Free](https://hex-rays.com/ida-free)
 - [pwntools](https://github.com/Gallopsled/pwntools)
 - [Detect It Easy](https://github.com/horsicq/Detect-It-Easy)
-- [gdb](https://sourceware.org/gdb/)
-- [geh](https://github.com/hugsy/gef)
 - [checksec](https://github.com/slimm609/checksec)
