@@ -60,6 +60,7 @@ shift_bytes(input_file, output_file)
 ```
 
 The result is the following image:
+
 ![win_samurai](/assets/images/apoorvCTF/samurai/shifted_samurai.jpg)
 
 Which gives us the flag:
