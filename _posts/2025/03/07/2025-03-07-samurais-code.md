@@ -34,7 +34,7 @@ Running the code using [dcode.fr](https://www.dcode.fr/brainfuck-language), we g
 We get [this](https://drive.google.com/file/d/1JWqdBJzgQhLUI-xLTwLCWwYi2Ydk4W6-/view?usp=sharing) link to a google drive, navigating to it we can download a file simply titled samurai.
 
 Opening the file, we see what looks like a jpg with its bits shuffled
-![samurai_bytes](/assets/images/apoorvCTF/saumurai/samurai_bytes.png)
+![samurai_bytes](/assets/images/apoorvCTF/samurai/samurai_bytes.png)
 
 as according to the [JPEG file format](https://en.wikipedia.org/wiki/JPEG_File_Interchange_Format#File_format_structure), we should see the first bytes be `FF D8 FF E0`
 
