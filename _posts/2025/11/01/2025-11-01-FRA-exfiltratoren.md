@@ -1,3 +1,8 @@
+---
+date: 2025-11-01 02:29:09 +02:00
+categories: [FRA, Forensics]
+tags: [Forensics, CTF, FRA]
+---
 # Exfiltratören
 This is a writeup of the challenge Exfiltratören from [FRA](https://challenge.fra.se/), the Swedish National Defence Radio Establishment.
 
